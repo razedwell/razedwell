@@ -67,7 +67,7 @@ status:   shipping production code & profiling hot paths
 │  Frameworks    │ gRPC · Nest.js · Next.js · Django · Express · REST         │
 │  Data          │ PostgreSQL · Redis · MongoDB · Neo4j · RabbitMQ · Kafka    │
 │  DevOps/Cloud  │ AWS (ECS, S3, Cognito) · Docker · K8s · GitLab CI · ELK    │
-│  Observability │ Prometheus · Grafana · OpenTelemetry · pprof             │
+│  Observability │ Prometheus · Grafana · OpenTelemetry · pprof               │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 

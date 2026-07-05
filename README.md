@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> `whoami`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" alt="Ninja" width="25" height="25" /> `whoami`
 
 ```bash
 $ cat about.txt
@@ -32,9 +32,9 @@ stack:    Go · Python · TypeScript · gRPC · Kafka · AWS
 status:   shipping production code & profiling hot paths
 ```
 
-> I live where **latency**, **throughput**, and **reliability** meet — designing event-driven microservices,  
-> integrating IoT at scale, and squeezing every millisecond out of production workloads.  
-> If it's not observable, it's not done. If it's not measured, it's not optimized.
+> My goroutines don't panic, since Real G's move in silence.
+
+<p align="right">© Senior Engineer Lil Wayne</p>
 
 ---
 

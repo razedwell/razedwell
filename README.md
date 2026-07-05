@@ -6,7 +6,7 @@
 <br/>
 
 ```diff
-+  ~/kadirov — distributed systems · IoT · observability · performance
++  ~/razedwell — distributed systems · IoT · observability · performance
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/razedwell?style=for-the-badge&logo=github&color=1a1b26&labelColor=0d1117)](https://github.com/razedwell)
@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Computer%20Face.png" alt="Computer Face" width="25" height="25" /> `whoami`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> `whoami`
 
 ```bash
 $ cat about.txt
@@ -148,12 +148,12 @@ $ education --completed
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=razedwell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EE787&icon_color=79C0FF&text_color=c9d1d9&rank_icon=percentile" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=razedwell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EE787&icon_color=79C0FF&text_color=c9d1d9&rank_icon=percentile" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=razedwell&theme=tokyonight&hide_border=true&background=0D1117&ring=7EE787&fire=FFA657&currStreakLabel=79C0FF" alt="GitHub Streak" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razedwell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EE787&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=razedwell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EE787&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=razedwell&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7EE787&line=79C0FF&point=FFA657&area=true" alt="Activity Graph" height="165"/>
 
 </div>
@@ -186,5 +186,5 @@ $ curl -s https://api.github.com/repos/razedwell/razedwell | jq .stargazers_coun
 
 </div>
 
-<!-- Snake animation — enable in repo Settings → Actions → General → Workflow permissions -->
-![Snake animation](https://github.com/razedwell/razedwell/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake animation — uncomment after the first successful Actions run (see .github/workflows/snake.yml) -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/razedwell/razedwell/gh-pages/github-contribution-grid-snake.svg) -->

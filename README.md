@@ -188,3 +188,4 @@ $ curl -s https://api.github.com/repos/razedwell/razedwell | jq .stargazers_coun
 
 <!-- Snake animation — uncomment after the first successful Actions run (see .github/workflows/snake.yml) -->
 ![Snake animation](https://raw.githubusercontent.com/razedwell/razedwell/gh-pages/github-contribution-grid-snake.svg)
+<!-- light theme fallback: .../github-contribution-grid-snake-light.svg -->
